@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icefy Mod Loader", "Icefy Mod Loader\Icefy Mod Loader.csproj", "{1A3ED50C-C26D-45BC-B540-C338059CBBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3ED50C-C26D-45BC-B540-C338059CBBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3ED50C-C26D-45BC-B540-C338059CBBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3ED50C-C26D-45BC-B540-C338059CBBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3ED50C-C26D-45BC-B540-C338059CBBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2372EDB-52F0-470D-8E82-0311E0DBC756}
+	EndGlobalSection
+EndGlobal
